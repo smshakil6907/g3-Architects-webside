@@ -88,6 +88,12 @@ main {
   font-weight: 700;
   font-size: 2.5rem;
 }
+.span1 {
+  color: #727272;
+}
+.span2 {
+  color: #ff900e;
+}
 /* feature you will love section style */
 
 .features-section-container {
@@ -150,6 +156,12 @@ p {
 .fact-text {
   width: 540px;
 }
+.fact-name {
+  color: #727272;
+}
+.fact-number {
+  color: #424242;
+}
 .isponsor-info {
   width: 50%;
   margin: 0 auto;
@@ -174,6 +186,7 @@ p {
 .footer-text {
   text-align: center;
   padding-top: 17px;
+  color: #727272;
 }
 
 /* responsive */
